@@ -11,7 +11,7 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "fadelpamungkas3@gmail.com",
+  mail: "mail@fadel.dev",
   title: "hi, *fadel* here.",
   description:
     "I'm a *software engineer* with over *1 year* of programming experience. \
